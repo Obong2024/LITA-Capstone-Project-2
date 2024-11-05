@@ -212,3 +212,46 @@ SELECT TOP 3 Region, COUNT(CustomerID) AS Cancellations
 - REVENUE BY REGION
 
 - NO OF CUSTOMERS BY SUBSCRIPTION TYPE
+
+
+
+
+
+
+![Revenue By Region](https://github.com/user-attachments/assets/bd11529d-6d79-438b-b21b-727debbb5ace)
+
+
+
+
+
+
+
+
+
+
+
+
+![Revenue Per Subscription Type](https://github.com/user-attachments/assets/8d0501fa-a897-458c-be2e-2b2c6ed56e37)
+
+
+
+
+
+
+
+
+
+
+
+
+![No of Customers By Subscription Type](https://github.com/user-attachments/assets/2be49bdc-e1a8-4657-a4d6-bce028ba19c3)
+
+
+
+
+
+
+
+
+
+
